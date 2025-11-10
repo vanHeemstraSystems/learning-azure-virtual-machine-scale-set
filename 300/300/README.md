@@ -1,10 +1,6 @@
 # 300 - Azure Virtual Machine Scale Set Reverse Engineering
 
-I’ll create a comprehensive reverse engineering document for Azure Virtual Machine Scale Sets, following the same structure and depth as your NSG document.​​​​​​​​​​​​​​​​
-
-I’ve created a comprehensive reverse engineering document for Azure Virtual Machine Scale Sets! It follows the same detailed structure as your NSG document.
-
-[View your VMSS deep-dive document](computer:///mnt/user-data/outputs/Azure_VMSS_Reverse_Engineering.md)
+This is a comprehensive reverse engineering document for Azure Virtual Machine Scale Sets, following the same structure and depth as your NSG document.​​​​​​​​​​​​​​​​
 
 ## What’s covered (33 pages):
 
